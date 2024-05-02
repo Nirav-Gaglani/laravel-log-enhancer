@@ -1,5 +1,5 @@
 {
-    "name": "freshbitsweb/laravel-log-enhancer",
+    "name": "nirav-gaglani/laravel-log-enhancer",
     "description": "Make debugging easier by adding more data to your laravel logs",
     "require": {
         "php": "^7.3|^8.0",
